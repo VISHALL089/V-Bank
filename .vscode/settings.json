@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "mysql-140f6b5c-crazyrock0106-4c8a.d.aivencloud.com",
+            "port": 17016,
+            "driver": "MySQL",
+            "name": "VBank Aiven DB",
+            "database": "defaultdb",
+            "username": "avnadmin",
+            "connectionTimeout": 30
+        }
+    ]
+}
